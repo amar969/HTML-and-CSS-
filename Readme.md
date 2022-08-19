@@ -79,8 +79,8 @@ Audio and Video tags are the two major addition to HTML5. It allows developers t
 
 With these new tags, there is no longer a need to identify the two elements with a <div> tag. Footer is placed at the end of the web page while Header is placed at the start of the web page. By using <header> and <footer> HTML5 elements, the browser will know what to load first and what to load later. 
 
-The header can contain -
- - One or more heading elements (<h1> – <h6>)
+The header can contain:  
+ - One or more heading elements 
  - Logo or icon
 
 Footer can contain-
